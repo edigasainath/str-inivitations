@@ -64,9 +64,9 @@ export default function InvitationDetailClient({ invitation, similarDesigns }: P
           <Link href="/" className="flex items-center gap-2 hover:opacity-90 transition-opacity">
             <Image
               src="/logo.png"
-              alt="Invitation Media"
-              width={140}
-              height={40}
+              alt="SAI SHISHIR TOURS"
+              width={160}
+              height={48}
               className="h-8 sm:h-9 w-auto object-contain"
               priority
             />
@@ -479,9 +479,9 @@ export default function InvitationDetailClient({ invitation, similarDesigns }: P
           <Link href="/" className="hover:opacity-90 transition-opacity">
             <Image
               src="/logo.png"
-              alt="Invitation Media"
-              width={140}
-              height={42}
+              alt="SAI SHISHIR TOURS"
+              width={160}
+              height={48}
               className="h-9 w-auto object-contain brightness-0 invert"
             />
           </Link>

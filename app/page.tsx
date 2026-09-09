@@ -47,10 +47,10 @@ export default function Home() {
         <Link href="/" className="flex items-center gap-3 hover:opacity-90 transition-opacity">
           <Image
             src="/logo.png"
-            alt="Invitation Media"
-            width={160}
-            height={48}
-            className="h-10 w-auto object-contain"
+            alt="SAI SHISHIR TOURS"
+            width={180}
+            height={52}
+            className="h-10 sm:h-11 w-auto object-contain"
             priority
           />
         </Link>
@@ -160,10 +160,10 @@ export default function Home() {
             <Link href="/" className="hover:opacity-90 transition-opacity">
               <Image
                 src="/logo.png"
-                alt="Invitation Media"
-                width={160}
-                height={48}
-                className="h-10 w-auto object-contain brightness-0 invert"
+                alt="SAI SHISHIR TOURS"
+                width={180}
+                height={52}
+                className="h-10 sm:h-11 w-auto object-contain brightness-0 invert"
               />
             </Link>
             <nav className="flex flex-wrap justify-center gap-8 text-[11px] font-semibold uppercase tracking-[0.15em] text-white/50">
