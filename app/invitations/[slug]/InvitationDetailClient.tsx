@@ -65,9 +65,9 @@ export default function InvitationDetailClient({ invitation, similarDesigns }: P
             <Image
               src="/logo.png"
               alt="SAI SHISHIR TOURS"
-              width={160}
-              height={48}
-              className="h-8 sm:h-9 w-auto object-contain"
+              width={260}
+              height={78}
+              className="h-12 sm:h-14 md:h-18 w-auto object-contain"
               priority
             />
           </Link>
@@ -480,9 +480,9 @@ export default function InvitationDetailClient({ invitation, similarDesigns }: P
             <Image
               src="/logo.png"
               alt="SAI SHISHIR TOURS"
-              width={160}
-              height={48}
-              className="h-9 w-auto object-contain brightness-0 invert"
+              width={300}
+              height={90}
+              className="h-16 sm:h-20 md:h-24 w-auto object-contain brightness-0 invert"
             />
           </Link>
           <p className="text-[11px] text-white/40 font-medium tracking-widest uppercase">

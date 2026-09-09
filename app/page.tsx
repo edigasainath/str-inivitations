@@ -48,9 +48,9 @@ export default function Home() {
           <Image
             src="/logo.png"
             alt="SAI SHISHIR TOURS"
-            width={180}
-            height={52}
-            className="h-10 sm:h-11 w-auto object-contain"
+            width={280}
+            height={84}
+            className="h-14 sm:h-16 md:h-20 w-auto object-contain"
             priority
           />
         </Link>
@@ -161,9 +161,9 @@ export default function Home() {
               <Image
                 src="/logo.png"
                 alt="SAI SHISHIR TOURS"
-                width={180}
-                height={52}
-                className="h-10 sm:h-11 w-auto object-contain brightness-0 invert"
+                width={300}
+                height={90}
+                className="h-16 sm:h-20 md:h-24 w-auto object-contain brightness-0 invert"
               />
             </Link>
             <nav className="flex flex-wrap justify-center gap-8 text-[11px] font-semibold uppercase tracking-[0.15em] text-white/50">
